@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MailContainerTest/bin/Debug/netcoreapp3.1
+/MailContainerTest/obj
+/MailContainerTest.Common/bin/Debug/netcoreapp3.1
+/MailContainerTest.Common/obj
+/MailContainerTest.Data/bin/Debug/netcoreapp3.1
+/MailContainerTest.Data/obj
+/MailContainerTest.Services/bin/Debug/netcoreapp3.1
+/MailContainerTest.Services/obj
+/MailContainerTest.Test/bin/Debug/netcoreapp3.1
+/MailContainerTest.Test/obj
+/MailContainerTest.Models/bin/Debug/netcoreapp3.1
+/MailContainerTest.Models/obj
